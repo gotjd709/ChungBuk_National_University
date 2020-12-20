@@ -21,24 +21,24 @@
 
 - Main sub()
 
-![Main](https://github.com/gotjd709/University_Assignment/tree/main/Microbiology_Lectures/Computer_for_Life_Science_and_Lab/Main.PNG)
+<img src="https://github.com/gotjd709/University_Assignment/tree/main/Microbiology_Lectures/Computer_for_Life_Science_and_Lab/Main.PNG"  width="700" height="370">
 
 - File Read sub()
 
-![File](C:/Users/ay190130/Desktop/Final_Project/6.png)
+<img src="https://github.com/gotjd709/University_Assignment/tree/main/Microbiology_Lectures/Computer_for_Life_Science_and_Lab/File.PNG"  width="700" height="370">
 
 - 인터넷 검색 sub()
 
-![인터넷](C:/Users/ay190130/Desktop/Final_Project/7.png)
+<img src="https://github.com/gotjd709/University_Assignment/tree/main/Microbiology_Lectures/Computer_for_Life_Science_and_Lab/인터넷ain.PNG"  width="700" height="370">
 
 - Translation sub()
 
-![Translation](C:/Users/ay190130/Desktop/Final_Project/8.png)
+<img src="https://github.com/gotjd709/University_Assignment/tree/main/Microbiology_Lectures/Computer_for_Life_Science_and_Lab/save.PNG"  width="700" height="370">
 
 - save sub()
 
-![save](C:/Users/ay190130/Desktop/Final_Project/9.png)
+<img src="https://github.com/gotjd709/University_Assignment/tree/main/Microbiology_Lectures/Computer_for_Life_Science_and_Lab/clear.PNG"  width="700" height="370">
 
 - clear sub()
 
-![clear](C:/Users/ay190130/Desktop/Final_Project/10.png)
+<img src="https://github.com/gotjd709/University_Assignment/tree/main/Microbiology_Lectures/Computer_for_Life_Science_and_Lab/Main.PNG"  width="700" height="370">
