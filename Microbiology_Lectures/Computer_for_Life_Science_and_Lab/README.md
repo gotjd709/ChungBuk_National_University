@@ -21,7 +21,7 @@
 
 - Main sub()
 
-![Main](C:/Users/ay190130/Desktop/Final_Project/5.png)
+![Main](https://biology-statistics-programming.tistory.com/6)
 
 - File Read sub()
 
