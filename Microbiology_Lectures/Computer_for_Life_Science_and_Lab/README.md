@@ -21,7 +21,7 @@
 
 - Main sub()
 
-![Main](https://biology-statistics-programming.tistory.com/6)
+![Main](https://github.com/gotjd709/University_Assignment/tree/main/Microbiology_Lectures/Computer_for_Life_Science_and_Lab/Main.PNG)
 
 - File Read sub()
 
