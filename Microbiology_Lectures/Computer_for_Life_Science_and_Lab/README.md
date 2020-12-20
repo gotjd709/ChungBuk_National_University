@@ -19,26 +19,26 @@
 
 알고리즘은 다음과 같다.
 
-- Main sub()
+- Main sub
 
-<img src="https://github.com/gotjd709/University_Assignment/tree/main/Microbiology_Lectures/Computer_for_Life_Science_and_Lab/Main.PNG"  width="700" height="370">
+![Main](https://user-images.githubusercontent.com/70703320/102717466-d917d200-4325-11eb-9b0e-bd5da816b559.PNG)
 
-- File Read sub()
+- File Read sub
 
-<img src="https://github.com/gotjd709/University_Assignment/tree/main/Microbiology_Lectures/Computer_for_Life_Science_and_Lab/File.PNG"  width="700" height="370">
+![File](https://user-images.githubusercontent.com/70703320/102717506-26943f00-4326-11eb-9339-d90755763a9b.PNG)
 
-- 인터넷 검색 sub()
+- 인터넷 검색 sub
 
-<img src="https://github.com/gotjd709/University_Assignment/tree/main/Microbiology_Lectures/Computer_for_Life_Science_and_Lab/인터넷ain.PNG"  width="700" height="370">
+![인터넷](https://user-images.githubusercontent.com/70703320/102717547-69561700-4326-11eb-83fb-7370bd34d848.PNG)
 
-- Translation sub()
+- Translation sub
 
-<img src="https://github.com/gotjd709/University_Assignment/tree/main/Microbiology_Lectures/Computer_for_Life_Science_and_Lab/save.PNG"  width="700" height="370">
+![Translation](https://user-images.githubusercontent.com/70703320/102717562-8985d600-4326-11eb-8b9b-4b837a43d083.PNG)
 
-- save sub()
+- save sub
 
-<img src="https://github.com/gotjd709/University_Assignment/tree/main/Microbiology_Lectures/Computer_for_Life_Science_and_Lab/clear.PNG"  width="700" height="370">
+![save](https://user-images.githubusercontent.com/70703320/102717579-9c98a600-4326-11eb-800a-4bf1320bc15c.PNG)
 
-- clear sub()
+- clear sub
 
-<img src="https://github.com/gotjd709/University_Assignment/tree/main/Microbiology_Lectures/Computer_for_Life_Science_and_Lab/Main.PNG"  width="700" height="370">
+![clear](https://user-images.githubusercontent.com/70703320/102717587-aa4e2b80-4326-11eb-8018-46ab76b07d88.PNG)
