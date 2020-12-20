@@ -9,7 +9,7 @@
   - Genbank number(ex: CP010822)와 유전자 region(ex: 618862..621360)을 입력하여 NCBI 사이트에서 서열 가져오기
 - 번역하기
   - 3개씩 묶어 코돈으로 번역하기
-  - IUPAC nucleotide code 고려하기
+  - [IUPAC nucleotide code 고려하기](https://user-images.githubusercontent.com/70703320/102717637-e8e3e600-4326-11eb-8ffe-d337d6c4a8ab.PNG)
 - 저장하기
   - 번역된 서열 저장하기
 - 지우기
