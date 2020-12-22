@@ -1,4 +1,4 @@
-# 프로젝트명: VBA를 통한 유전자 번역
+# 프로젝트명: VBA를 통한 유전자 번역 (팀장: 이혜성, 팀원: 김민찬, 김창일)
 
 이번 프로젝트는 EXCEL의 VBA(Visual Basic for Application)을 통하여 유전자 서열이 주어졌을 경우 번역(translation)이 일어나도록 하였다. 주요 기능은 다음과 같다.
 
