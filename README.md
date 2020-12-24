@@ -30,7 +30,7 @@
   - Practice(5).R 
     - 5장: SVM(Support Vector Machine)
   - Practice(8).R 
-    - 8장: H20 package
+    - 8장: H2 package
   - Practice(9).R 
     - 9장: Random Forest, LASSO, Ridge
   - Practice(13).R
